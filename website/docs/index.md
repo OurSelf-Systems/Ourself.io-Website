@@ -29,4 +29,4 @@ These are in development, pre-alpha.
 
 ## Documentation
 
-There is no documentation.
+There is no documentation.  (Well, [almost no documentation](documentation/))

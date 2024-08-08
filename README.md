@@ -6,7 +6,7 @@ To build:
 ```
 poetry install
 cd website
-poetry build
+poetry run mkdocs build
 ```
 
 Built site will be in `website/site` 

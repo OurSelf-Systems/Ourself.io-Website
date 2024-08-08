@@ -2,12 +2,6 @@
 
 Though the Control world, the operator is able to manage Self worlds and associated data. Worlds can be woken or put to sleep, imported or exported to snapshots, named, duplicated, deleted etc.
 
-Access to each running world is through a web browser - no specific client software is needed. As such, users can access their Self programs from any modern computer including tablets and phones.
-
-Each Self world comes with the facilities to allow multi-user access, allowing team development and use.
-
-Running worlds are secure and separated from the rest of the system. The Control world can give them access to the Internet or deny them entirely.
-
 ## Outline of Main Objects in Control World
 
 `psyche` is the main entry point and contains the main boot routine.

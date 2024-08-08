@@ -23,3 +23,5 @@ Access to each running world is through a web browser - no specific client softw
 Each Self world comes with the facilities to allow multi-user access, allowing team development and use.
 
 Running worlds are secure and separated from the rest of the system. The Control world can give them access to the Internet or deny them entirely. (<= not yet implemented)
+
+=> more about [Self worlds](worlds/)
