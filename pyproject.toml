@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ourself-io-website"
+version = "0.1.0"
+description = "OurSelf.io Website"
+authors = ["Russell Allen <mail@russell-allen.com>"]
+readme = "README.md"
+packages = [{include = "ourself"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+mkdocs = "1.6.0"
+mkdocs-terminal = "4.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
